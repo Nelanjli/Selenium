@@ -1,4 +1,3 @@
-#target_creation@@@@@@
 import os_
 import unittest, csv
 import HtmlTestRunner
