@@ -1,0 +1,106 @@
+1524540281915	geckodriver	INFO	geckodriver 0.19.0
+1524540281920	geckodriver	INFO	Listening on 127.0.0.1:47187
+1524540283182	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.shwa1qvloszn"
+1524540286251	Marionette	INFO	Enabled via --marionette
+1524540346961	geckodriver	INFO	geckodriver 0.19.0
+1524540346983	geckodriver	INFO	Listening on 127.0.0.1:38495
+1524540347383	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.XwmSIwy44cqa"
+1524540350552	Marionette	INFO	Enabled via --marionette
+1524540353194	Marionette	INFO	Listening on port 44061
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1524540353309	Marionette	WARN	TLS certificate errors will be ignored for this session
+1524540355222	Marionette	DEBUG	loaded listener.js
+1524540355452	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1524540361135	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1524540361187	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: http://havoc.aricentcoe.com:9876/static/plugins/morris/morris.min.js, line 6: Error: Graph container element not found
+1524540371352	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://havoc.aricentcoe.com:9876/portal/login"
+JavaScript error: http://havoc.aricentcoe.com:9876/portal/login, line 146: TypeError: $(...).circliful is not a function
+1524540378995	Marionette	DEBUG	Received DOM event "pageshow" for "http://havoc.aricentcoe.com:9876/portal/login"
+1524540379554	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1524540379567	Marionette	DEBUG	Received DOM event "beforeunload" for "http://havoc.aricentcoe.com:9876/portal/login"
+1524540380193	Marionette	DEBUG	Received DOM event "pagehide" for "http://havoc.aricentcoe.com:9876/portal/login"
+1524540380204	Marionette	DEBUG	Received DOM event "unload" for "http://havoc.aricentcoe.com:9876/portal/login"
+JavaScript error: http://havoc.aricentcoe.com:9876/static/plugins/morris/morris.min.js, line 6: Error: Graph container element not found
+JavaScript error: http://havoc.aricentcoe.com:9876/static/pages/jquery.form-advanced.init.js, line 50: TypeError: $(...).TouchSpin is not a function
+1524540391427	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://havoc.aricentcoe.com:9876/portal/create_tools"
+1524540391468	Marionette	DEBUG	Received DOM event "pageshow" for "http://havoc.aricentcoe.com:9876/portal/create_tools"
+1524540392446	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1524540393241	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1524540393750	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1524540394226	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1524540394701	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1524540395464	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1524540398604	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1524540399778	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1524540400316	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1524540400821	Marionette	DEBUG	Received DOM event "beforeunload" for "http://havoc.aricentcoe.com:9876/portal/create_tools"
+1524540401414	Marionette	DEBUG	Received DOM event "pagehide" for "http://havoc.aricentcoe.com:9876/portal/create_tools"
+1524540401448	Marionette	DEBUG	Received DOM event "unload" for "http://havoc.aricentcoe.com:9876/portal/create_tools"
+JavaScript error: http://havoc.aricentcoe.com:9876/static/plugins/morris/morris.min.js, line 6: Error: Graph container element not found
+JavaScript error: http://havoc.aricentcoe.com:9876/static/pages/jquery.form-advanced.init.js, line 50: TypeError: $(...).TouchSpin is not a function
+1524540464017	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://havoc.aricentcoe.com:9876/portal/view_tool_instances?platform=2&tool=1&instance=&name=Nmap_test&host=172.19.57.48&host_user=root&host_password=toor&host_port=&tool_ip=&tool_user=&tool_password=&tool_port=&fqdn=&policy=&arguments=%23NAME%3F&profile=8&credential_profile=&certificate=&permission=Read&read_user1=1"
+1524540464030	Marionette	DEBUG	Received DOM event "pageshow" for "http://havoc.aricentcoe.com:9876/portal/view_tool_instances?platform=2&tool=1&instance=&name=Nmap_test&host=172.19.57.48&host_user=root&host_password=toor&host_port=&tool_ip=&tool_user=&tool_password=&tool_port=&fqdn=&policy=&arguments=%23NAME%3F&profile=8&credential_profile=&certificate=&permission=Read&read_user1=1"
+1524540583034	geckodriver	INFO	geckodriver 0.19.0
+1524540583052	geckodriver	INFO	Listening on 127.0.0.1:51475
+1524540583345	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.rRz7Uflb3pF3"
+1524540588431	Marionette	INFO	Enabled via --marionette
+1524540591293	Marionette	INFO	Listening on port 41683
+1524540591357	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1524540593562	Marionette	DEBUG	loaded listener.js
+1524540594025	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1524540599926	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1524540599934	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: http://havoc.aricentcoe.com:9876/static/plugins/morris/morris.min.js, line 6: Error: Graph container element not found
+1524540611662	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://havoc.aricentcoe.com:9876/portal/login"
+JavaScript error: http://havoc.aricentcoe.com:9876/portal/login, line 146: TypeError: $(...).circliful is not a function
+1524540622375	Marionette	DEBUG	Received DOM event "pageshow" for "http://havoc.aricentcoe.com:9876/portal/login"
+1524540622983	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1524540623015	Marionette	DEBUG	Received DOM event "beforeunload" for "http://havoc.aricentcoe.com:9876/portal/login"
+1524540623688	Marionette	DEBUG	Received DOM event "pagehide" for "http://havoc.aricentcoe.com:9876/portal/login"
+1524540623700	Marionette	DEBUG	Received DOM event "unload" for "http://havoc.aricentcoe.com:9876/portal/login"
+JavaScript error: http://havoc.aricentcoe.com:9876/static/plugins/morris/morris.min.js, line 6: Error: Graph container element not found
+JavaScript error: http://havoc.aricentcoe.com:9876/static/pages/jquery.form-advanced.init.js, line 50: TypeError: $(...).TouchSpin is not a function
+1524540635761	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://havoc.aricentcoe.com:9876/portal/create_assets"
+1524540635854	Marionette	DEBUG	Received DOM event "pageshow" for "http://havoc.aricentcoe.com:9876/portal/create_assets"
+1524540638757	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1524540641161	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1524540641862	Marionette	DEBUG	Received DOM event "beforeunload" for "http://havoc.aricentcoe.com:9876/portal/create_assets"
+1524540642359	Marionette	DEBUG	Received DOM event "pagehide" for "http://havoc.aricentcoe.com:9876/portal/create_assets"
+1524540642444	Marionette	DEBUG	Received DOM event "unload" for "http://havoc.aricentcoe.com:9876/portal/create_assets"
+JavaScript error: http://havoc.aricentcoe.com:9876/static/plugins/morris/morris.min.js, line 6: Error: Graph container element not found
+JavaScript error: http://havoc.aricentcoe.com:9876/static/pages/jquery.form-advanced.init.js, line 50: TypeError: $(...).TouchSpin is not a function
+1524540686142	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://havoc.aricentcoe.com:9876/portal/create_assets"
+1524540686157	Marionette	DEBUG	Received DOM event "pageshow" for "http://havoc.aricentcoe.com:9876/portal/create_assets"
+1524540686698	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1524540686958	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1524540687314	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1524540687662	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1524540688031	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1524540688037	Marionette	DEBUG	Received DOM event "beforeunload" for "http://havoc.aricentcoe.com:9876/portal/create_assets"
+1524540689019	Marionette	DEBUG	Received DOM event "pagehide" for "http://havoc.aricentcoe.com:9876/portal/create_assets"
+1524540689029	Marionette	DEBUG	Received DOM event "unload" for "http://havoc.aricentcoe.com:9876/portal/create_assets"
+JavaScript error: http://havoc.aricentcoe.com:9876/static/plugins/morris/morris.min.js, line 6: Error: Graph container element not found
+JavaScript error: http://havoc.aricentcoe.com:9876/static/pages/jquery.form-advanced.init.js, line 50: TypeError: $(...).TouchSpin is not a function
+1524540696038	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://havoc.aricentcoe.com:9876/portal/create_assets"
+1524540696055	Marionette	DEBUG	Received DOM event "pageshow" for "http://havoc.aricentcoe.com:9876/portal/create_assets"
+1524540696529	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1524540696783	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1524540697271	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1524540697522	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1524540697800	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1524540698252	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1524540698420	Marionette	DEBUG	Received DOM event "beforeunload" for "http://havoc.aricentcoe.com:9876/portal/create_assets"
+1524540699415	Marionette	DEBUG	Received DOM event "pagehide" for "http://havoc.aricentcoe.com:9876/portal/create_assets"
+1524540699418	Marionette	DEBUG	Received DOM event "unload" for "http://havoc.aricentcoe.com:9876/portal/create_assets"
+JavaScript error: http://havoc.aricentcoe.com:9876/static/plugins/morris/morris.min.js, line 6: Error: Graph container element not found
+JavaScript error: http://havoc.aricentcoe.com:9876/static/pages/jquery.form-advanced.init.js, line 50: TypeError: $(...).TouchSpin is not a function
+1524540704338	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://havoc.aricentcoe.com:9876/portal/view_asset?platform=1&Name=Asset2&version_name=&Name=&scr=5&address=&url=&branch=&username=&password=&code_path=&code_language=1&incremental_scan=True&conf_file=Select+conf+file&openstack_service=Select+service&toolinstance=Select+tool+Instance&satellite_hostgroup=Select+HostGroup&permission=Read"
+1524540704423	Marionette	DEBUG	Received DOM event "pageshow" for "http://havoc.aricentcoe.com:9876/portal/view_asset?platform=1&Name=Asset2&version_name=&Name=&scr=5&address=&url=&branch=&username=&password=&code_path=&code_language=1&incremental_scan=True&conf_file=Select+conf+file&openstack_service=Select+service&toolinstance=Select+tool+Instance&satellite_hostgroup=Select+HostGroup&permission=Read"
+1524540831833	geckodriver	INFO	geckodriver 0.19.0
+1524540831838	geckodriver	INFO	Listening on 127.0.0.1:53153
+1524540833124	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Zw95liIILMxV"
+1524540836240	Marionette	INFO	Enabled via --marionette
+1524541063673	Marionette	INFO	Listening on port 36909
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
